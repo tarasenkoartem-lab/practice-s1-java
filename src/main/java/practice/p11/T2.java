@@ -1,6 +1,6 @@
 package practice.p11;
 
-// 169. Majority Element
+// base
 // https://leetcode.com/problems/majority-element/
 public class T2 {
 

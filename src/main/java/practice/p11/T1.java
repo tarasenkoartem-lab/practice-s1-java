@@ -1,6 +1,6 @@
 package practice.p11;
 
-// 268. Missing Number
+// base
 // https://leetcode.com/problems/missing-number/
 public class T1 {
 
